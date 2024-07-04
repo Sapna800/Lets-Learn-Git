@@ -8,6 +8,6 @@ public class Diff{
 		int b= 5;
 		System.out.println("Diff is = "+ a-b);
 		
-		System.out.println("Hello from issue 1");
+		System.out.println("Hello from issue 2");
 	}
 }

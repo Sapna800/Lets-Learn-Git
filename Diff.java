@@ -7,5 +7,7 @@ public class Diff{
 		int a= 10;
 		int b= 5;
 		System.out.println("Diff is = "+ a-b);
+		
+		System.out.println("Hello from issue 1");
 	}
 }
